@@ -26,9 +26,9 @@ module.exports = {
   ],
   author: {
     name: "Topic Match",
-    photo: "/topicmatchlogosuppercropped.jpg",
+    photo: "/topicmatchlogo1.jpg",
     bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "Topics go toe to toe into the battlefield where the only winner is you.",
     contacts: {
       email: "",
       facebook: "#",
