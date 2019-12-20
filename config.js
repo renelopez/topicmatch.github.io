@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://topicmatch.net",
-  pathPrefix: "/topicmatchlumen",
+  pathPrefix: "/renelopez.github.io",
   title: "TopicMatch",
   subtitle: "Your topics face to face.",
   copyright: "© All rights reserved.",
