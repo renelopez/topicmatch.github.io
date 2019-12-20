@@ -1,0 +1,291 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-87ef582ba388a83f73c0.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.de24d63ef0160ae8cdb3.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-4efe239887f43a7f3d62.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-7f0946156e8131e557ee.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-8bf6e18fcbffbee6eab5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-a8a30d5821197c180923.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-324659d88459e32c19db.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-7561b72f3997c21f4dc5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-438077e52668404488ab.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-4a41e786118ee2b99a61.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-06c543fd0fd21a7ba643.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js
+  Cache-Control: public, max-age=31536000, immutable
+/netlify-identity-widget-e37a35e339457e643f79.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-d597bdcf65fa169425a2.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/renelopez.github.io/offline-plugin-app-shell-fallback/
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---node-modules-gatsby-plugin-offline-app-shell-js-87ef582ba388a83f73c0.js>; rel=preload; as=script
+/renelopez.github.io/404
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-not-found-template-js-8bf6e18fcbffbee6eab5.js>; rel=preload; as=script
+/renelopez.github.io/tags
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tags-list-template-js-a8a30d5821197c180923.js>; rel=preload; as=script
+/renelopez.github.io/categories
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-categories-list-template-js-324659d88459e32c19db.js>; rel=preload; as=script
+/renelopez.github.io/404.html
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-not-found-template-js-8bf6e18fcbffbee6eab5.js>; rel=preload; as=script
+/renelopez.github.io/pages/about/
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
+/renelopez.github.io/pages/contacts/
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-page-template-js-7561b72f3997c21f4dc5.js>; rel=preload; as=script
+/renelopez.github.io/posts/perfecting-the-art-of-perfection
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/renelopez.github.io/posts/the-origins-of-social-stationery-lettering
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/renelopez.github.io/posts/humane-typography-in-the-digital-age
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/renelopez.github.io/posts/the-birth-of-movable-type
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/renelopez.github.io/posts/a-brief-history-of-typography
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/renelopez.github.io/tag/design
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/gatsby
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/handwriting
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/helvetica
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/history-of-typography
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/learning-to-write
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/linotype
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/monotype
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/open-source
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/typography
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/tag/web-development
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-tag-template-js-438077e52668404488ab.js>; rel=preload; as=script
+/renelopez.github.io/category/design-culture
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-category-template-js-4a41e786118ee2b99a61.js>; rel=preload; as=script
+/renelopez.github.io/category/design-inspiration
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-category-template-js-4a41e786118ee2b99a61.js>; rel=preload; as=script
+/renelopez.github.io/category/typography
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-category-template-js-4a41e786118ee2b99a61.js>; rel=preload; as=script
+/renelopez.github.io/
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-index-template-js-06c543fd0fd21a7ba643.js>; rel=preload; as=script
+/renelopez.github.io/page/1
+  Link: </renelopez.github.io/webpack-runtime-b8c4f2dcc4cf00b9f1d7.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </renelopez.github.io/app-d597bdcf65fa169425a2.js>; rel=preload; as=script
+  Link: </renelopez.github.io/styles-4efe239887f43a7f3d62.js>; rel=preload; as=script
+  Link: </renelopez.github.io/commons-7f0946156e8131e557ee.js>; rel=preload; as=script
+  Link: </renelopez.github.io/component---src-templates-index-template-js-06c543fd0fd21a7ba643.js>; rel=preload; as=script
