@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TopicMatch]]></title><description><![CDATA[Your topics face to face.]]></description><link>https://topicmatch.net</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Dec 2019 21:35:02 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://topicmatch.net/posts/humane-typography-in-the-digital-age</link><guid isPermaLink="false">https://topicmatch.net/posts/humane-typography-in-the-digital-age</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TopicMatch]]></title><description><![CDATA[Your topics face to face.]]></description><link>https://topicmatch.net</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Dec 2019 21:36:19 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://topicmatch.net/posts/humane-typography-in-the-digital-age</link><guid isPermaLink="false">https://topicmatch.net/posts/humane-typography-in-the-digital-age</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
@@ -16,7 +16,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
+    href=&quot;/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -27,22 +27,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
-/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
-/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
+          srcset=&quot;/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
+/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
+/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/5a194/42-line-bible.jpg 240w,
-/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/8a430/42-line-bible.jpg 480w,
-/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg 800w&quot;
+          srcset=&quot;/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/5a194/42-line-bible.jpg 240w,
+/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/8a430/42-line-bible.jpg 480w,
+/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
+          src=&quot;/topicmatchlumen/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;
@@ -82,7 +82,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg&quot;
+    href=&quot;/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -93,24 +93,24 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
+          srcset=&quot;/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/5a194/type-through-time.jpg 240w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/8a430/type-through-time.jpg 480w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg 960w,
-/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg 1250w&quot;
+          srcset=&quot;/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/5a194/type-through-time.jpg 240w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/8a430/type-through-time.jpg 480w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg 960w,
+/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg&quot;
+          src=&quot;/topicmatchlumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg&quot;
           alt=&quot;type-through-time.jpg&quot;
           title=&quot;type-through-time.jpg&quot;
           loading=&quot;lazy&quot;
@@ -169,7 +169,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/bf8aa/movable-type.jpg&quot;
+    href=&quot;/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/bf8aa/movable-type.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -180,28 +180,28 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/8ac56/movable-type.webp 240w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/d3be9/movable-type.webp 480w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/e46b2/movable-type.webp 960w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/f992d/movable-type.webp 1440w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/882b9/movable-type.webp 1920w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/58cee/movable-type.webp 2288w&quot;
+          srcset=&quot;/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/8ac56/movable-type.webp 240w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/d3be9/movable-type.webp 480w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/e46b2/movable-type.webp 960w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/f992d/movable-type.webp 1440w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/882b9/movable-type.webp 1920w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/58cee/movable-type.webp 2288w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/5a194/movable-type.jpg 240w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/8a430/movable-type.jpg 480w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/0781d/movable-type.jpg 960w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/e5be1/movable-type.jpg 1440w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/b89a9/movable-type.jpg 1920w,
-/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/bf8aa/movable-type.jpg 2288w&quot;
+          srcset=&quot;/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/5a194/movable-type.jpg 240w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/8a430/movable-type.jpg 480w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/0781d/movable-type.jpg 960w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/e5be1/movable-type.jpg 1440w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/b89a9/movable-type.jpg 1920w,
+/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/bf8aa/movable-type.jpg 2288w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/bd0272909c25e194b94dc89edc338274/0781d/movable-type.jpg&quot;
+          src=&quot;/topicmatchlumen/static/bd0272909c25e194b94dc89edc338274/0781d/movable-type.jpg&quot;
           alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
           title=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
           loading=&quot;lazy&quot;
@@ -234,7 +234,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/3d0fe/image-3.jpg&quot;
+    href=&quot;/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/3d0fe/image-3.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -245,26 +245,26 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/8ac56/image-3.webp 240w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/d3be9/image-3.webp 480w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/e46b2/image-3.webp 960w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/f992d/image-3.webp 1440w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/62ed8/image-3.webp 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/8ac56/image-3.webp 240w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/d3be9/image-3.webp 480w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/e46b2/image-3.webp 960w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/f992d/image-3.webp 1440w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/62ed8/image-3.webp 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/5a194/image-3.jpg 240w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/8a430/image-3.jpg 480w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/0781d/image-3.jpg 960w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/e5be1/image-3.jpg 1440w,
-/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/3d0fe/image-3.jpg 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/5a194/image-3.jpg 240w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/8a430/image-3.jpg 480w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/0781d/image-3.jpg 960w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/e5be1/image-3.jpg 1440w,
+/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/3d0fe/image-3.jpg 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/732bbf5c4fdcc63ac39e10f8f82a3435/0781d/image-3.jpg&quot;
+          src=&quot;/topicmatchlumen/static/732bbf5c4fdcc63ac39e10f8f82a3435/0781d/image-3.jpg&quot;
           alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           loading=&quot;lazy&quot;
@@ -299,14 +299,14 @@
   &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/renelopez.github.io/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://topicmatch.net/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://topicmatch.net/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/topicmatchlumen/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://topicmatch.net/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://topicmatch.net/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/3d0fe/image-2.jpg&quot;
+    href=&quot;/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/3d0fe/image-2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -317,26 +317,26 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/8ac56/image-2.webp 240w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/d3be9/image-2.webp 480w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/e46b2/image-2.webp 960w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/f992d/image-2.webp 1440w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/62ed8/image-2.webp 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/8ac56/image-2.webp 240w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/d3be9/image-2.webp 480w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/e46b2/image-2.webp 960w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/f992d/image-2.webp 1440w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/62ed8/image-2.webp 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/5a194/image-2.jpg 240w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/8a430/image-2.jpg 480w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/0781d/image-2.jpg 960w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/e5be1/image-2.jpg 1440w,
-/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/3d0fe/image-2.jpg 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/5a194/image-2.jpg 240w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/8a430/image-2.jpg 480w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/0781d/image-2.jpg 960w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/e5be1/image-2.jpg 1440w,
+/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/3d0fe/image-2.jpg 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/0249a8579cfb4088acaf23fcac068444/0781d/image-2.jpg&quot;
+          src=&quot;/topicmatchlumen/static/0249a8579cfb4088acaf23fcac068444/0781d/image-2.jpg&quot;
           alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           loading=&quot;lazy&quot;
@@ -354,7 +354,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/3d0fe/image-0.jpg&quot;
+    href=&quot;/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/3d0fe/image-0.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -365,26 +365,26 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/8ac56/image-0.webp 240w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/d3be9/image-0.webp 480w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/e46b2/image-0.webp 960w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/f992d/image-0.webp 1440w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/62ed8/image-0.webp 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/8ac56/image-0.webp 240w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/d3be9/image-0.webp 480w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/e46b2/image-0.webp 960w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/f992d/image-0.webp 1440w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/62ed8/image-0.webp 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/5a194/image-0.jpg 240w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/8a430/image-0.jpg 480w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/0781d/image-0.jpg 960w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/e5be1/image-0.jpg 1440w,
-/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/3d0fe/image-0.jpg 1800w&quot;
+          srcset=&quot;/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/5a194/image-0.jpg 240w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/8a430/image-0.jpg 480w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/0781d/image-0.jpg 960w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/e5be1/image-0.jpg 1440w,
+/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/3d0fe/image-0.jpg 1800w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/renelopez.github.io/static/b3e5e61f7fb8888ba76b502242e27bd0/0781d/image-0.jpg&quot;
+          src=&quot;/topicmatchlumen/static/b3e5e61f7fb8888ba76b502242e27bd0/0781d/image-0.jpg&quot;
           alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
           loading=&quot;lazy&quot;
